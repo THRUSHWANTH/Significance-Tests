@@ -1,6 +1,6 @@
 # Significance-Tests
 
-Core Terminologies<n>
-Steps in Hypothesis Testing
-Significance Tests 
-Ways Of Finding the Significance tests 
+Core Terminologies<br />
+Steps in Hypothesis Testing<br />
+Significance Tests<br />
+Ways Of Finding the Significance tests<br /> 
